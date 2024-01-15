@@ -2,7 +2,7 @@
 
 <div>
   
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white"&link=https://discord.com/users/493597925679562772)](https://discord.com/users/493597925679562772)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"&link=https://discord.com/users/493597925679562772)](https://discord.com/users/493597925679562772)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"&link=https://www.instagram.com/bandeira.eng/)](https://www.instagram.com/bandeira.eng/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"&link=https://www.linkedin.com/in/eduardo-bandeira-781a82292/)](https://www.linkedin.com/in/eduardo-bandeira-781a82292/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white"&link=https://open.spotify.com/user/4mnswri4kjhzyextgle6j2d4h)](https://open.spotify.com/user/4mnswri4kjhzyextgle6j2d4h)
