@@ -1,9 +1,5 @@
-# Eduardo Bandeira
+# " O Sul É Meu País " 
 
-
-### " O Sul É Meu País " 
-<br>
-## Hi
 - 👨🏻‍🎤 Math prodigy;
 - In differential geometry and tensor calculus;
 - In a really love with Eletromagnetic Physics;
@@ -15,13 +11,16 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EngBandeira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br>
+
+#
 
 ### My Enviroment:
 
 ![My IDES](https://skillicons.dev/icons?i=neovim,octave,vim,vscode,linux)
 
 <br>
+
+#
 
 ### My Languges:
 
