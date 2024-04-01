@@ -14,7 +14,7 @@
 
 ### My Enviroment:
 
-![My IDES](https://skillicons.dev/icons?i=neovim,octave,vim,vscode,linux)
+![My IDES](https://skillicons.dev/icons?i=neovim,octave,vim,vscode,linux,emacs)
 
 <br>
 
@@ -24,9 +24,9 @@
 
 <div>
 <img src="https://imgur.com/CZ3pw4E.png" width="50" height="50" >
-<img src="https://skillicons.dev/icons?i=c,cpp,latex" height="50" >
+<img src="https://imgur.com/7ND91eF.png" width="50" height="50" >
+<img src="https://skillicons.dev/icons?i=c,cpp,latex,perl" height="50" >
   </div>
-  
 <br>
 
 #
