@@ -1,6 +1,6 @@
 # " O Sul É Meu País " 
 
-- 👨🏻‍🎤 Math prodigy;
+- BFlex Group Founder;
 - In differential geometry and tensor calculus;
 - In a really love with Eletromagnetic Physics;
 
