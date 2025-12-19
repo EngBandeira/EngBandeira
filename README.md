@@ -8,7 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=EngBandeira&show_icons=true&theme=transparent&border_color=00000000&icon_color=6F34ad&text_color=cccccc)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngBandeira&layout=compact&theme=transparent&border_color=00000000&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://personal-wakatime.vercel.app/timer?username=EngBandeira&key=9a2b02c5-88ce-4a46-8f85-5e98ecaca30b" width="500px">
 
 #
 
