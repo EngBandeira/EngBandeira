@@ -1,7 +1,7 @@
 # BFlex Group Founder;
 
-- In differential geometry and tensor calculus;
-- In a really love with Eletromagnetic Physics;
+- Experience in pure math and physics
+- Studying non linear system stability
 
 <br>
 
