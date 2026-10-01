@@ -1,6 +1,5 @@
-# " O Sul É Meu País " 
+# BFlex Group Founder;
 
-- BFlex Group Founder;
 - In differential geometry and tensor calculus;
 - In a really love with Eletromagnetic Physics;
 
